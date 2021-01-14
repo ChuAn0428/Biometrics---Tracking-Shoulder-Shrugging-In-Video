@@ -1,3 +1,3 @@
 Demo .gif
 
-![alt text](https://github.iu.edu/tsaichu/Biometrics---Track-Shoulder-Shrugging-In-Video/blob/master/GIF.gif)
+![alt text](https://github.com/ChuAn0428/Biometrics---Tracking-Shoulder-Shrugging-In-Video/blob/main/GIF.gif)
